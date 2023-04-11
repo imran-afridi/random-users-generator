@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://randomusergen.live/sitemap.xml
